@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function Home() {
-  const [counter, setCounter] = useState<number>();
+  const [counter, setCounter] = useState(1);
 
   return (
     <>
