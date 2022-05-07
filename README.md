@@ -13,8 +13,6 @@
 
 ## Table of Contents
 
-<hr>
-
 - <a href="#about">About</a>
 - <a href="#contributions">Contributions</a>
 - <a href="#author">Author</a>
@@ -28,7 +26,7 @@ I'm also taking the opportunity to learn how to write better READMEs, this one w
 - [x] Click on button to count
 - [x] See the count increase
 
-### Technologies
+#### Technologies
 
 - [React](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
